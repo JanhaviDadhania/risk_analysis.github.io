@@ -97,6 +97,10 @@ body {
     opacity: 1;
 }
 
+.middle {
+        margin-bottom:100px;
+    }
+
 /*middle body*/
 @media only screen and (max-width: 1026px) {
     .middle {
