@@ -96,6 +96,13 @@ body {
     opacity: 1;
 }
 
+/*middle body*/
+@media only screen and (max-width: 1026px) {
+    .middle {
+        margin-bottom:120px;
+    }
+}
+
 /*label*/
 @media (max-width: 1000px) {
     label{
